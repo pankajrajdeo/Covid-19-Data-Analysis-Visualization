@@ -5,6 +5,10 @@ This project utilises publicly available Covid-19 dataset to produce visualizati
 
 Covid-19 dataset was visulaized using Matplotlib and Seaborn for 
 ###### 1) Statewise Covid-19 sample collection
-###### 2) Confirmed, recovered, and death cases
+![This is an image]()
+###### 2) Confirmed and cured cases
+![This is an image](https://github.com/pankajrajdeo/pankajrajdeo1/blob/main/Images/Confirmed%2C%20recovered%2C%20and%20death%20cases.png)
 ###### 3) Statewise vaccination
+![This is an image]()
 ###### 4) Statewise covid-19 cases
+![This is an image]()
